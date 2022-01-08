@@ -2,4 +2,13 @@
 Desafio de Projeto Git/GitHub
 
 ## Links úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+<ol>
+  <li>
+    [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+  </li>
+  <li>
+    [Comandos GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+  </li>
+</ol>
+ 
+
